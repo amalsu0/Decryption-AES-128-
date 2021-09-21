@@ -1,4 +1,4 @@
-## Network Security Programming Assignment
+## AES-128
 
  Part1:
     Writing a program that uses AES-128 to decrypt a message using the ciphertext (ciphertext.dat) and secret key (key.dat) for testing.
